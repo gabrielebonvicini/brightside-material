@@ -1,6 +1,6 @@
 
 #Download the csv data from: https://dappradar.com/ethereum/games/the-sandbox
-file_path <- "D:/Gabri/Download chrome/be8j9ok4.csv"
+file_path <- "D:/Gabri/Download chrome/be8j9ok4.csv"  #I have uploaded the file in the src folder. Save it and substitute this line of code with your path
 active_users <- read.csv(file_path)
 is.character(active_users[,1]) #they should be date
 
@@ -71,7 +71,7 @@ data %>% dygraph( , xlab = "Date" ,ylab=  "Active users" ) %>%
   dySeries( axis = "y2") %>% dyLegend(show = "always") %>% 
   dyRangeSelector()
 
-##################################################################à
+##################################################################Ã 
 #while with the total market cap 
 file2 <- "D:/Gabri/Download chrome/sand-usd-max.csv"
 mkt_cap_tot <- read.csv(file2)
