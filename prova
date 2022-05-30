@@ -1,0 +1,31 @@
+
+
+Overall the system is quite balanced and well assessed, but let’s try to build different scenarios to test the sustainability of the economics created below the project. 
+
+-	Players and creators do not grow.
+Imagine the simplest system with, let’s say, 4 players and one creator.
+o	Creator -- > 1 SAND 
+o	Players -- > 1 SAND each 
+Now let’s suppose only Games exists in this system (so that we will simplify the currency exchange in the process): the Creator spend his SAND to create a game, which cost to Players 1 SAND subscription fee.
+All the players participate and only one win 
+The pool of liquidity here is of 4 SAND, and as we know, imagine a % of reward for the Creator of 25%
+o	Player (winner) -- > 3 SAND 
+o	Creator -- > 1 SAND 
+o	Player 2,3,4 (losers) -- > out of the system (assuming they are not willing to exchange fiat currency for SANDs for various motivation)
+Now, assume for simplicity that no other games are created, the only game left in the system cost 1 SAND and provide, in this case, a reward of 0.5 to the creator and 1.5 to the player. 
+In this scenario the system obviously collapse. Indeed, the Creator can decide if spend his tokens to try to win, entering a cycle in which he can lose everything, or not play at all, causing the circulation of tokens to stop and thus the project to collapse.
+
+-	If only players grow in number. 
+Since Players are growing, we can assume also a growing demand for Games, making them more expensive. Since Players will pay more for playing Games, sooner the rewards will diminish, making player less willing to participate. Thus, players will become Creators, because attracted from the high reward, but since players growth in rate and creators do not, this scheme will end up only assuming that player will not become Creators. In this extreme situation Player will be disincentivized to play for the high fees that will dimmish the winning prize more and more.
+However, it’s more likely that a growing number of player will be attracted by the high revenue that will be recognized to creators, thus they will be reallocated between players and creators, making also creators growing
+
+-	If only creators grow.
+Here we will be in a system in which creators will produce a lot of games, that nobody will play. Thus, here the cost of playing will be very low, but as this also the prize, and the fee recognized to creators due to the competitive forces in role. This system will not go on with high probability. 
+In fact here being a player does not have incentives, so Creators will not become Players rebalancing the system.  
+
+
+Summing up we can have a system in which Player growth constantly, and due to the incentive offered by being a Creator they will probably become Creators. Note that in reality there are frictions to the  shift in role: being a Creator is not easy as being a Player, so that it will take time for a Player to specialize and become a Creator. Thus, this could cause slowdowns in the system, causing a moment in which there are a lot of players and a few Creators, so low incentives to play as rapidly analysed before. 
+In the other hands, a lot of Creators could cause problems, creating too many contents that will become less profitable due to higher supply, and moreover they will not be incentivized to become Players.
+This consideration seems to be empirically true for two facts: 
+-	To become Creator you will need an approval, suggesting that the company does not want they to be a crowd. 
+-	Recently, the company has closed the possibility to applicate as a Creator, due to the high numbers of creators . Maybe they noticed a decreasing number of Players, making them scary about the future of the system? 
